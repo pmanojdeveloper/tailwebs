@@ -17,6 +17,7 @@ The Teacher Portal is a web application designed to help teachers manage student
 - PHP
 - MySQL
 - Web server (e.g., Apache)
+- Javascript
 
 ### Steps
 
